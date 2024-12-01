@@ -9,4 +9,4 @@ Here’s the corrected version:
 2. Displaying contacts in a tabular format.
 3. Enhancing the GUI (I found the GUI acceptable, but if anyone wants to improve its appearance, that would be nice).
 
-*** Chose and push files to the other public repo that i will provide it here soon ***
+**Choose and push files to the other public repo that i will provide it here soon**
