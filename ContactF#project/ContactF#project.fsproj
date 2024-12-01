@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWPF>false</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Contact.fs" />
+    <Compile Include="ContactManager.fs" />
+    <Compile Include="UI.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

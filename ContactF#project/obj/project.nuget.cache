@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSQ73x1gRPTfQSmmx18dMJSTq272cJAVc+pX3NtM00BwdiS3fIxNV3J//w/QhoUkAtJ3yvFwLjoDNxu2XO4lGg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\testss\\ContactF#project\\ContactF#project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marwa\\.nuget\\packages\\fsharp.core\\7.0.403\\fsharp.core.7.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
