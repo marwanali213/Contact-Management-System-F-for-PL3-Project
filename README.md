@@ -1,6 +1,5 @@
 # Contact-Management-System-F-for-PL3-Project
 
-Here’s the corrected version:
 
 **Added the files that contain the core functions and the GUI. You must run it on .NET 7 and ensure that the Windows Forms package is installed before running the code. You can Google the commands required to run the project; they are fairly easy (e.g., `dotnet run`).**
 
